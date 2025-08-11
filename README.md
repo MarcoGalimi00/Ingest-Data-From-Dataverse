@@ -14,7 +14,7 @@ Since the notebooks are supposed to be used in **Azure Databricks**, you will se
 ## 📂 Repository Structure
 
 - **`dataverse_lookup.ipynb`** – Connects to Dataverse, reads secrets from Azure Key Vault, and retrieves the requested data.
-- **`landing_to_raw.ipynb`** – Take the parquet file created in ADF after the lookup and create the raw tables.
+- **`landing_to_raw_dataverse.ipynb`** – Take the parquet file created in ADF after the lookup and create the raw tables.
 - **`pl-dataverse-ingestion.json`** – ADF pipeline definition to orchestrate the process and download the tables from dataverse into the landing zone of Azure.
 - **`config.csv`** – Specifies which tables and columns to download.
 
