@@ -30,6 +30,3 @@ Since the notebooks are supposed to be used in **Azure Databricks**, you will se
   - Azure Key Vault with all secrets related to Dataverse (tenant-id, app-id, app-secret)
   - Access to Dataverse
   - Environment in the key vault (I have stored the letter of the environment in the key vault in order to dynamically recreate my default catalog in Azure)
-- **Libraries**
-  - openpyxl==3.1.0
-  - pandas
