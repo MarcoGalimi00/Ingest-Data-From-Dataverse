@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+*.env
+*.venv
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Output data
+data/
+output/
+downloads/
+
+# Azure Data Factory temp files
+*.tmp
+*.log
