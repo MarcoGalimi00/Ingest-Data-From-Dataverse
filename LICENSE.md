@@ -5,7 +5,7 @@
 ```text
 MIT License
 
-Copyright (c) 2025 [Il Tuo Nome]
+Copyright (c) 2025 [Marco Galimi]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
