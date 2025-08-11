@@ -18,7 +18,7 @@ Since the notebooks are supposed to be used in **Azure Databricks**, you will se
 - **AzureDataFactory** a folder with all ADF related content, in particular:
   - **`pl-dataverse-ingestion.json`** – ADF pipeline definition to orchestrate the process and download the tables from dataverse into the landing zone of Azure.
   - **`dataverse-ingestion.png`** - A png for showing how the pipeline should look like. 
-- **`config.csv`** – Specifies which tables and columns to download.
+- **`dataverse_table_info.csv`** – Specifies which tables and columns to download.
 
 ---
 
